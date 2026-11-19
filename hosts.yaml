@@ -1,0 +1,9 @@
+hosts:
+  - host: google.com
+    ports:
+      - 80
+      - 443
+  - host: github.com
+    ports:
+      - 22
+      - 443
